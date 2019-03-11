@@ -4,7 +4,7 @@ This repository consists of ARM templates for deploying Rancher (https://www.ran
 ARM Template #1 named RancherNode.JSON will deploy an Ubuntu VM with Docker and the latest version of Rancher (https://hub.docker.com/r/rancher/rancher) from Docker Hub. ARM Template #2 named RancherHost.JSON will deploy an Ubuntu VM with Docker to be used as a Kubernetes host in Rancher. 
 
 
-<a href="https://azuredeploy.net/?repository=https://raw.githubusercontent.com/Buchatech/DeployRanchertoAzure/master/RancherNode.JSON" target="_blank">
+<a href="https://azuredeploy.net/?repository=https://github.com/Buchatech/DeployRanchertoAzure" target="_blank">
     <img src="https://azuredeploy.net/deploybutton.png"/>
 </a>
 
