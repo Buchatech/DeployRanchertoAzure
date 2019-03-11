@@ -1,1 +1,1 @@
-# RancherDeploytoAz
+# This repository consists of AMR templates for deploying Rancher (https://www.rancher.com) and a node VM for Rancher to Azure. This is intended for labs to learn Rancher. Not intended for use in production. For more information see the full blog post here:
